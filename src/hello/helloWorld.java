@@ -9,7 +9,7 @@ public class helloWorld {
 //System.out.println("Hello World");
 
 
-String a="Hello worlds";
+String a="Hello world";
 System.out.println(a);
 
 	}
